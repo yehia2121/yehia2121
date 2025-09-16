@@ -33,15 +33,13 @@ Passionate about clean code, problem-solving, and continuous learning.
 ---
 
 ## 📫 Connect With Me
-- [LinkedIn](www.linkedin.com/in/yehia-ashraf-59a474372)  
-- [Email](yehiaashraf022@gmail.com)
+- [LinkedIn](www.linkedin.com/in/yehia-ashraf-59a474372) — www.linkedin.com/in/yehia-ashraf-59a474372
+- [Email](#) — yehiaashraf022@gmail.com
 
 
 
 
-
-
-
+ 
 
 <!--
 **yehia2121/yehia2121** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
