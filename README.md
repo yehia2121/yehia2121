@@ -16,12 +16,14 @@ Passionate about clean code, problem-solving, and continuous learning.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="60" height="60" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="60" height="60" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="60" height="60" />
-
-
 </p>
 
+---
 
-
+## 📂 Projects
+- 🛒 [E-Commerce Website](#) — A full-stack shop with authentication & cart system.  
+- 🎬 [Movie App](#) — Browse and search movies using an external API.  
+- 📝 [Blog Platform](#) — Markdown-based blog with authentication.  
 
 
 
