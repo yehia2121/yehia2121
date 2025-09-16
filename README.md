@@ -33,7 +33,7 @@ Passionate about clean code, problem-solving, and continuous learning.
 ---
 
 ## 📫 Connect With Me
-- [LinkedIn](www.linkedin.com/in/yehia-ashraf-59a474372) — www.linkedin.com/in/yehia-ashraf-59a474372
+- [LinkedIn](#) — www.linkedin.com/in/yehia-ashraf-59a474372
 - [Email](#) — yehiaashraf022@gmail.com
 
 
