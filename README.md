@@ -21,9 +21,6 @@ Passionate about clean code, problem-solving, and continuous learning.
 ---
 
 ## 📂 Projects
-- 🛒 [E-Commerce Website](#) — A full-stack shop with authentication & cart system.  
-- 🎬 [Movie App](#) — Browse and search movies using an external API.  
-- 📝 [Blog Platform](#) — Markdown-based blog with authentication.  
 
 
 
