@@ -24,6 +24,25 @@ Passionate about clean code, problem-solving, and continuous learning.
 - 🛒 [E-commerce Website](https://github.com/yehia2121/e-commerce.git) — A responsive frontend shop with product listing and cart UI
 - 📧 [Social App](https://github.com/yehia2121/Social-App.git) — A frontend social platform with posts and comments UI.
 
+---
+
+## 🌱 Currently Learning
+- NextAuth (authentication)  
+- Full-stack development basics
+
+---
+
+## 📫 Connect With Me
+- [LinkedIn](www.linkedin.com/in/yehia-ashraf-59a474372)  
+- [Email](yehiaashraf022@gmail.com)
+
+
+
+
+
+
+
+
 <!--
 **yehia2121/yehia2121** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
