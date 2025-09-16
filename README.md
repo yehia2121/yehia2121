@@ -21,7 +21,7 @@ Passionate about clean code, problem-solving, and continuous learning.
 ---
 
 ## 📂 Projects
-
+- 🛒 [E-commerce Website](e-commerce-iota-green-lso7l765tl.vercel.app) — A responsive frontend shop with product listing and cart UI
 
 
 <!--
