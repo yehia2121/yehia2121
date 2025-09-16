@@ -1,5 +1,5 @@
 ## Hi there 👋
-## I'm a Frontend Develpoer 
+## I’m a Frontend Developer focused on creating modern, responsive, and user-friendly web applications.
 
 <!--
 **yehia2121/yehia2121** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
