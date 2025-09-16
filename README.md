@@ -1,5 +1,14 @@
 ## Hi there 👋
-## I’m a Frontend Developer focused on creating modern, responsive, and user-friendly web applications.
+## 🚀 About Me
+I'm a **Frontend Developer** focused on creating modern, responsive, and user-friendly web applications.  
+Passionate about clean code, problem-solving, and continuous learning.
+
+---
+
+
+
+
+
 
 <!--
 **yehia2121/yehia2121** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
