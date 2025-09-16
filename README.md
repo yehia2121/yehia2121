@@ -4,6 +4,8 @@ I'm a **Frontend Developer** focused on creating modern, responsive, and user-fr
 Passionate about clean code, problem-solving, and continuous learning.
 
 ---
+## 🛠️ Tech Stack
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" />
 
 
 
