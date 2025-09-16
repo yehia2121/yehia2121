@@ -21,7 +21,7 @@ Passionate about clean code, problem-solving, and continuous learning.
 ---
 
 ## 📂 Projects
-- 🛒 [E-commerce Website]([e-commerce-iota-green-lso7l765tl.vercel.app](https://github.com/yehia2121/e-commerce.git)) — A responsive frontend shop with product listing and cart UI
+- 🛒 [E-commerce Website](yehia2121/e-commerce.git) — A responsive frontend shop with product listing and cart UI
 
 
 <!--
