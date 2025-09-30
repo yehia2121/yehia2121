@@ -30,6 +30,8 @@ Passionate about clean code, problem-solving, and continuous learning.
 ## 🌱 Currently Learning
 - NextAuth (authentication)
 - Redux (state management)
+- jQuery
+- Sass
 - Full-stack development basics
 
 ---
