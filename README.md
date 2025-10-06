@@ -22,7 +22,6 @@ Passionate about clean code, problem-solving, and continuous learning.
 
 ## 📂 Projects
 - 🛒 [E-commerce Website](https://github.com/yehia2121/e-commerce.git) — A responsive frontend shop with product listing and cart UI
-- 📧 [Social App](https://github.com/yehia2121/Social-App.git) — A frontend social platform with posts and comments UI.
 - ☁ [Weather Me](https://github.com/yehia2121/weather_me.git) — A simple weather app that shows current weather and forecasts using a public API.
 
 ---
